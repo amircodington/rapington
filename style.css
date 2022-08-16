@@ -1,0 +1,25 @@
+html {
+  background-color: #000000;
+}
+
+body {
+  background-color: #000000 !important;
+}
+
+.navbar-dark {
+  background-color: #000000;
+}
+
+.logo {
+  width: 10rem;
+}
+
+.hero {
+  background-image: url(img/Hero-bg.jpg);
+  height: 100vh;
+}
+
+.hero-text {
+  font-size: 1.5rem;
+  color: #e12419;
+}
