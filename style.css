@@ -19,7 +19,22 @@ body {
   height: 100vh;
 }
 
+h1 {
+  color: #ffffff;
+  transition: all 0.5s;
+}
+
+h1:hover {
+  color: #e12419;
+}
+
 .hero-text {
   font-size: 1.5rem;
   color: #e12419;
+  transition: all 0.5s;
+}
+
+.hero-text:hover {
+  font-size: 1.7rem;
+  color: #fed602;
 }
